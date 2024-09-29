@@ -1,0 +1,78 @@
+.motto-page {
+
+    .text-zone {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: transLate(-50%, -50%);
+        text-align: center;
+        width: 80vw;
+
+        @media screen and (max-width: 1200px) {
+            left: 55%;
+            width: 70vw;
+        }
+    }
+
+    p {
+        color: #a5cdd4;
+        margin: 0;
+        font-family: "Roboto";
+    }
+
+    p.en {
+        font-family: 'Roboto';
+        font-size: 24px;
+        line-height: 24px;
+        margin-bottom: 80px;
+
+        @media screen and (max-width: 1200px) {
+            font-size: 16px;
+            line-height: 16px;
+            margin-bottom: 120px;
+        }
+    }
+
+    p.kr {
+        font-family: 'Roboto';
+        font-size: 20px;
+        line-height: 22px;
+
+        @media screen and (max-width: 1200px) {
+            font-size: 14px;
+            line-height: 16px;
+        }
+    }
+    
+    h1 {
+        color: #7853ff;
+        margin: 0;
+        font-family: 'Coolvetica';
+    }
+
+    h1.en {
+        font-size: 48px;
+        line-height: 54px;
+        font-weight: 400;
+        margin-bottom: 40px;
+
+        @media screen and (max-width: 1200px) {
+            font-size: 28px;
+            line-height: 32px;
+            margin-bottom: 20px;
+        }
+    }
+
+    h1.kr {
+        font-size: 36px;
+        line-height: 42px;
+        font-weight: 800;
+        margin-bottom: 40px;
+
+        @media screen and (max-width: 1200px) {
+            font-size: 20px;
+            line-height: 24px;
+            margin-bottom: 20px;
+        }
+    }
+}
