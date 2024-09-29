@@ -103,7 +103,7 @@ const Dev = () => {
                             initial={{ color: '#fff', opacity: 0, x: -100 }}
                             animate={{ color: '#a5cdd4', opacity: 1, x: 20 }}
                             transition={{ delay: 1.7, duration: 0.5 }}>
-                            {">> Kotlin / Java"}
+                            {">> asdf"}
                         </motion.span>
                         <br />
                         <motion.span
@@ -111,7 +111,7 @@ const Dev = () => {
                             initial={{ color: '#fff', opacity: 0, x: -100 }}
                             animate={{ color: '#a5cdd4', opacity: 1, x: 40 }}
                             transition={{ delay: 1.8, duration: 0.5 }}>
-                            {">> XML / Jetpack Compose"}
+                            {">> asdf"}
                         </motion.span>
                         <br />
                         <motion.span
@@ -119,7 +119,7 @@ const Dev = () => {
                             initial={{ color: '#fff', opacity: 0, x: -100 }}
                             animate={{ color: '#a5cdd4', opacity: 1, x: 60 }}
                             transition={{ delay: 1.9, duration: 0.5 }}>
-                            {">> Coroutines"}
+                            {">> asdf"}
                         </motion.span>
                         <br />
                         <motion.span
@@ -127,13 +127,13 @@ const Dev = () => {
                             initial={{ color: '#fff', opacity: 0, x: -100 }}
                             animate={{ color: '#a5cdd4', opacity: 1, x: 80 }}
                             transition={{ delay: 2, duration: 0.5 }}>
-                            {">> Firebase / Retrofit / Room Database"}
+                            {">> asdf"}
                         </motion.span>
                         <br />
                     </h2>
                     <p>
                         <motion.span 
-                            className="experience"
+                            className="asdf"
                             initial={{ scale: 2, filter: 'blur(30px)', opacity: 0 }}
                             animate={{ scale: 1, filter: 'blur(0px)', opacity: 1 }}
                             transition={{ delay: 1.5, duration: 1 }}>
@@ -142,13 +142,13 @@ const Dev = () => {
                                 initial={{ position: 'relative', color: '#fff', fontSize: showContent ? 28 : 20, fontFamily: "Coolvetica", fontWeight: 400, top: 15, left: 10 }}
                                 animate={{ color: '#7853ff' }}
                                 transition={{ delay: 1.7, duration: 1 }}>
-                                {"Experience"}
+                                {"asdf"}
                             </motion.span>
                             <motion.span
                                 initial={{ position: 'relative', color: '#fff', fontSize: showContent ? 22 : 16, fontFamily: "Coolvetica", fontWeight: 800, top: 15, left: 10 }}
                                 animate={{ color: '#7853ff' }}
                                 transition={{ delay: 1.7, duration: 1 }}>
-                                {" / 학력 및 경력"}
+                                {" / asdf"}
                             </motion.span>
 
                             <br />
