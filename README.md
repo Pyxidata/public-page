@@ -44,5 +44,5 @@ Internet.
   <code>JavaScript</code>,
   <code>Node.js</code>,
   <code>React.js</code>,
-  <code>Firebase</code>,
+  <code>Firebase</code>
 </p>
